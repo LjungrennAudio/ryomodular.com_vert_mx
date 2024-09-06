@@ -1,0 +1,69 @@
+Partlist
+
+Exported from vc seq PCB1.sch at 2013-10-26 13:42:32
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part      Value                Device               Package                               Library       Sheet
+
+C8        100nF                C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C9        100nF                C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C10       100nF                C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C11       100nF                C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C12       100nF                C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C13       100nF                C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C19       100nF                C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C22       22pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C23       22pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C24       22pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C25       22pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C26       22pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C27       22pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C28       22pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C29       22pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+C30       47pF                 C-EU025-024X044      C025-024X044                          Roll Your Own 1
+CV/CLK-IN ERTHENVAR_3.5MM_JACK ERTHENVAR_3.5MM_JACK ERTHENVAR                             Roll Your Own 1
+D5        Amber                LED3MM               LED3MM                                Roll Your Own 1
+D6        Amber                LED3MM               LED3MM                                Roll Your Own 1
+D7        Amber                LED3MM               LED3MM                                Roll Your Own 1
+D8        Amber                LED3MM               LED3MM                                Roll Your Own 1
+D9        Amber                LED3MM               LED3MM                                Roll Your Own 1
+D10       Amber                LED3MM               LED3MM                                Roll Your Own 1
+D11       Amber                LED3MM               LED3MM                                Roll Your Own 1
+D12       Amber                LED3MM               LED3MM                                Roll Your Own 1
+IC3       TL074P               TL074P               DIL14                                 Roll Your Own 1
+IC4       TL074P               TL074P               DIL14                                 Roll Your Own 1
+IC5       TL074P               TL074P               DIL14                                 Roll Your Own 1
+OUT       ERTHENVAR_3.5MM_JACK ERTHENVAR_3.5MM_JACK ERTHENVAR                             Roll Your Own 1
+POT1                           POT-ALPHA9           POT-ALPHA9                            Roll Your Own 1
+POT2                           POT-ALPHA9           POT-ALPHA9                            Roll Your Own 1
+POT3                           POT-ALPHA9           POT-ALPHA9                            Roll Your Own 1
+POT4                           POT-ALPHA9           POT-ALPHA9                            Roll Your Own 1
+POT5                           POT-ALPHA9           POT-ALPHA9                            Roll Your Own 1
+POT6                           POT-ALPHA9           POT-ALPHA9                            Roll Your Own 1
+POT7                           POT-ALPHA9           POT-ALPHA9                            Roll Your Own 1
+POT8                           POT-ALPHA9           POT-ALPHA9                            Roll Your Own 1
+R-IN      ERTHENVAR_3.5MM_JACK ERTHENVAR_3.5MM_JACK ERTHENVAR                             Roll Your Own 1
+R5        15K                  R-EU_0207/10         0207/9                                Roll Your Own 1
+R6        1M                   R-EU_0207/10         0207/9                                Roll Your Own 1
+R17       15K                  R-EU_0207/10         0207/9                                Roll Your Own 1
+R22       100K                 R-EU_0207/10         0207/9                                Roll Your Own 1
+R23       1K                   R-EU_0207/10         0207/9                                Roll Your Own 1
+R25       1M                   R-EU_0207/10         0207/9                                Roll Your Own 1
+R26       1M                   R-EU_0207/10         0207/9                                Roll Your Own 1
+RN4       100K                 E4RP                 SIL8                                  Roll Your Own 1
+RN5       100K                 E4RP                 SIL8                                  Roll Your Own 1
+RN6       100K                 E4RP                 SIL8                                  Roll Your Own 1
+RN7       100K                 E4RP                 SIL8                                  Roll Your Own 1
+RN8       100K                 E4RP                 SIL8                                  Roll Your Own 1
+RN9       100K                 E4RP                 SIL8                                  Roll Your Own 1
+S1        SPDT on-off-on       SPDTTOP-SUBMINI      SPDT-HORIZONTAL-TOP-SUBMINI-MULTICOMP Roll Your Own 1
+SV1                            MA04-1               MA04-1                                Roll Your Own 1
+SV2                            MA04-1               MA04-1                                Roll Your Own 1
+SV3                            MA04-1               MA04-1                                Roll Your Own 1
+SV4                            MA04-1               MA04-1                                Roll Your Own 1
+SV5                            MA04-1               MA04-1                                Roll Your Own 1
+SV6                            MA04-1               MA04-1                                Roll Your Own 1
+SV7                            MA04-1               MA04-1                                Roll Your Own 1

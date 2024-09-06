@@ -1,0 +1,28 @@
+Partlist
+
+Exported from PCB2 1.1.sch at 2013-10-26 13:40:34
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library       Sheet
+
+C5       100nF          C-EU025-024X044 C025-024X044 Roll Your Own 1
+C6       100nF          C-EU025-024X044 C025-024X044 Roll Your Own 1
+C13      47pF           C-EU025-024X044 C025-024X044 Roll Your Own 1
+C14      47pF           C-EU025-024X044 C025-024X044 Roll Your Own 1
+C15      47pF           C-EU025-024X044 C025-024X044 Roll Your Own 1
+CON1                    MA03-1          MA03-1       Roll Your Own 1
+CON2                    MA03-1          MA03-1       Roll Your Own 1
+CON3                    MA03-1          MA03-1       Roll Your Own 1
+CON4                    MA03-1          MA03-1       Roll Your Own 1
+IC1      TL074          TL074P          DIL14        Roll Your Own 1
+R3       100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R4       100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R13      1K             R-EU_0207/10    0207/9       Roll Your Own 1
+R14      1K             R-EU_0207/10    0207/9       Roll Your Own 1
+R15      1K             R-EU_0207/10    0207/9       Roll Your Own 1
+R16      100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R17      100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R18      100K           R-EU_0207/10    0207/9       Roll Your Own 1

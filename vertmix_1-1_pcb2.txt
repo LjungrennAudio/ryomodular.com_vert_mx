@@ -1,0 +1,39 @@
+Partlist
+
+Exported from PCB2 1.1.sch at 2013-10-26 13:41:40
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library       Sheet
+
+C6       47pF           C-EU025-024X044 C025-024X044 Roll Your Own 1
+C7       47pF           C-EU025-024X044 C025-024X044 Roll Your Own 1
+C8       47pF           C-EU025-024X044 C025-024X044 Roll Your Own 1
+C9       47pF           C-EU025-024X044 C025-024X044 Roll Your Own 1
+C10      47pF           C-EU025-024X044 C025-024X044 Roll Your Own 1
+C11      100nF          C-EU025-024X044 C025-024X044 Roll Your Own 1
+C12      100nF          C-EU025-024X044 C025-024X044 Roll Your Own 1
+C13      100nF          C-EU025-024X044 C025-024X044 Roll Your Own 1
+C14      100nF          C-EU025-024X044 C025-024X044 Roll Your Own 1
+CON1                    MA05-1          MA05-1       Roll Your Own 1
+CON2                    MA05-1          MA05-1       Roll Your Own 1
+CON3                    MA08-1          MA08-1       Roll Your Own 1
+IC1      TL074          TL074P          DIL14        Roll Your Own 1
+IC2      TL074          TL074P          DIL14        Roll Your Own 1
+R5       100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R6       100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R7       100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R8       100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R9       100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R10      100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R11      1K             R-EU_0207/10    0207/9       Roll Your Own 1
+R12      1K             R-EU_0207/10    0207/9       Roll Your Own 1
+R13      1K             R-EU_0207/10    0207/9       Roll Your Own 1
+R16      100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R17      100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R18      100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R19      100K           R-EU_0207/10    0207/9       Roll Your Own 1
+R20      1K             R-EU_0207/10    0207/9       Roll Your Own 1
+R21      1K             R-EU_0207/10    0207/9       Roll Your Own 1

@@ -1,0 +1,9 @@
+stabilt	you could use a 5.1V zener instead of the LM4040 on the breadboard and 1k resistor instead of 10k for it
+
+
+stabilt	test if its quiet in the center position with a scope
+Fri	wofl	ok
+Fri	stabilt	feeding pulse audio
+Fri	wofl	oh?
+Fri	stabilt	or square
+Fri	stabilt	leakage is most visable with that kind of signal according to krisp1
