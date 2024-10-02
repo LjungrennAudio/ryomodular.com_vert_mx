@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "3ch mix 1.6")(type "KiCad")(uri "$(KIPRJMOD)/3ch mix 1.6.pretty")(options "")(descr ""))
+)
