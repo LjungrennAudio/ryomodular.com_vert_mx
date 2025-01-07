@@ -1,0 +1,27 @@
+PATHS
+
+hold
+
+reset
+
+voltage controlled mode
+
+clocking with FWD clock input the sequence will advance one step forward - clockable to very high clock rates (100 kHz tested) In cv mode the one that shares the forward clock input is half wave rectified CVable with to audio range
+
+step forward button will advance the sequence  one step forward
+
+clocking with REV clock input will advance one step in reverse - clockable to very high clock rates (100 kHz tested) In cv mode the reverse clock input is full wave rectified, CVable with full audio range
+
+Step Rev button will advance the sequence one step in reverse
+
+
+If a clock comes in exactly at the same time on both inputs the forward will have priority over the reverse.
+ 
+
+The steps toggle switch and the red buttons are inactive in CV mode.
+
+To limit the number of steps in CV mode you can use an attenuator to attenuate the CV down to only reach 2 or 3 steps.
+ 
+The toggle switch that controls number of steps 2/4/3 Steps and reverse direction.
+
+Width: 8 hp

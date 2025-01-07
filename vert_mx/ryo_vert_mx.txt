@@ -1,0 +1,24 @@
+- art card:
+have consulted heather; proposed idea of alt. colors.
+	og red/black/cream/amber
+	new white/gold/neon-pink/green
+	web cyan/magenta/white/black/[orange?]
+
+- quick start guide:
+pic from photo -> b&w with numbering, labelling n short text
+
+- manual:
+p much copypasta n edit from others
+possibly see avareth for patch suggestions?
+
+- spec sheet:
+email synthCube?
+
+- assembly guide:
+check if existing ok - email synthCube
+
+- schematic:
+from kicad - export as pmg?
+
+- bom:
+export from kicad as csv, prettify.
