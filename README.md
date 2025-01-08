@@ -15,3 +15,9 @@ it should  be a pretty low price basic beginner DIY build friendly kinda module 
 if anyone cn come up with real exciting patch progaramming uses or unusuial thoughts for patch examples please tell me cos am not super inspired by thios one tbh - it's absolutely an essential you cnt do without in a system but it's not exactly the kimda thing you shout about - it just sits queitly in the corner doing it's job and eing an unsung hero of the modular ecosystem.
 
 this will be cheap, unexciting and solid. it needs to e there as oart of the lineup but its not a weird quirky one or some kind of flagship - it just is.
+
+
+202501080338 addendum
+
+
+this is p much exactly the same story as the repos for the other modules of the set 'vert_mx, dp_switch, adda. brit_eq5', - i.e. it's not finished until it's finished and i aint attempting to bring order to chaos until it's all over so for now this aint gonna be sereing alotta change except for even more files being added. sorro.
